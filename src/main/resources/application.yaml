@@ -1,7 +1,7 @@
 
 spring:
   application: 
-    name: factory-scm
+    name: factory-csm
   profiles: 
     active: default
   datasource:
